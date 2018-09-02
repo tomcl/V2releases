@@ -27,6 +27,17 @@ Visual2 will run on Windows, OS-X and linux and is distributed as binaries
 * Run Visual2
 * In case of problems check the documentation on running electron applications on your distro. Contact [me](t.clarke@ic.ac.uk) if you'd like acces to the source repo [Visual2](https://github.com/ImperialCollegeLondon/Visual2) to compile from source, which may be needed to run under linux.
 
+
+## Command Line Switches
+
+```
+visual2.exe [-d|--debug] [-h|--help]
+```
+
+* F12 (in debug mode) open dev tools to show test results etc
+
+
+
 ## Notes
 
 This is an open access repo holding releases of [Visual2](https://github.com/ImperialCollegeLondon/Visual2). 
