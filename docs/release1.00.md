@@ -6,8 +6,8 @@
 va.b.c
 ```
 
-* a: major version. Big changes in in implementation or release status
-* b: minor version. Incrmental feature upgrades within major release
+* a: major version. Big changes in implementation or release status
+* b: minor version. Incremental feature upgrades within major release
 * c: bugfix version. As needed to fix bugs in current minor release
 
 ## Changes from v0.14
