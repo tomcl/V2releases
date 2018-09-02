@@ -1,4 +1,4 @@
-# Visual2
+# VisUAL2
 
 A friendly ARM assembler and simulator for educational use.
 
