@@ -1,4 +1,4 @@
-### Semantic versioning
+# Semantic versioning
 
 ```
 va.b.c
@@ -12,14 +12,11 @@ va.b.c
 
 
 
-## Changes from v1.00
-
 * Added auto-update and exams in progress reminders. 
 * Improved interlocks.
 
 # Release notes v1.00
 
-## Changes from v0.14
 
 * v1.00 is similar in functionality to 0.x but is the first production release.
 * Assembly simulator semantics. Some adjustment to improve the (badly documented) behaviour of carry which is written when a literal 
