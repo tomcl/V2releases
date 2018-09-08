@@ -16,7 +16,7 @@ va.b.c
 * Improved interlocks.
 * Upgraded Fable to 2.0.0-beta-004
 
-NB Fable numbers are now working properly (bitwise ops and conversions work as expected), also exact numbers semantics has been documented and linked from documentation.
+NB Fable numbers are now working properly (bitwise ops and conversions work as expected), also exact numbers semantics has been documented and linked from documentation. This has allowed some slight simplifications and speedups in code.
 
 # Release notes v1.00
 
