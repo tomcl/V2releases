@@ -1,4 +1,4 @@
-# Release Notes v1.00
+# Release Notes v1.01
 
 ### Semantic versioning
 
@@ -10,10 +10,16 @@ va.b.c
 * b: minor version. Incremental feature upgrades within major release
 * c: bugfix version. As needed to fix bugs in current minor release
 
+## Changes from v1.00
+
+* Added auto-update and exams in progress reminders. 
+* Improved interlocks.
+
+# Release notes v1.00
+
 ## Changes from v0.14
 
 * v1.00 is similar in functionality to 0.x but is the first production release.
-
 * Assembly simulator semantics. Some adjustment to improve the (badly documented) behaviour of carry which is written when a literal 
 is selected for op2 that is larger than 255 in a non-arithmetic data processing instruction. Note that VisUAL got
 this wrong, so the tests against Visual that error under Visual2 are marked allowed.
