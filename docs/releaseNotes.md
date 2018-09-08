@@ -1,5 +1,3 @@
-# Release Notes v1.01
-
 ### Semantic versioning
 
 ```
@@ -9,6 +7,10 @@ va.b.c
 * a: major version. Big changes in implementation or release status
 * b: minor version. Incremental feature upgrades within major release
 * c: bugfix version. As needed to fix bugs in current minor release
+
+# Release Notes v1.01
+
+
 
 ## Changes from v1.00
 
