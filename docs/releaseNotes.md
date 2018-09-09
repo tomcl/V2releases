@@ -8,6 +8,19 @@ va.b.c
 * b: minor version. Incremental feature upgrades within major release
 * c: bugfix version. As needed to fix bugs in current minor release
 
+# Release Notes v1.02
+
+Various small polishing feature improvements from 1.01:
+
+* Undefined symbol errors more helpful
+* Shift errors more helpful
+* Documentation windows open in browser
+* Menus cleaned up
+* Dev tools have correct access keys
+
+Also UAL documrntation has been improved.
+
+
 # Release Notes v1.01
 
 
