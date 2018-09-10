@@ -34,7 +34,7 @@ Visual2 will run on Windows, OS-X and linux and is distributed as binaries
 visual2.exe [-d|--debug] [-h|--help]
 ```
 
-* F12 (in debug mode) open dev tools to show test results etc
+* Ctrl-Shift-I (in debug mode) open dev tools to show test results etc
 
 ## Visual2 Documentation
 
