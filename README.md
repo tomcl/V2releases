@@ -36,7 +36,9 @@ visual2.exe [-d|--debug] [-h|--help]
 
 * F12 (in debug mode) open dev tools to show test results etc
 
+## Visual2 Documentation
 
+See the [documentation site](https://tomcl.github.io/visual2.github.io/).
 
 ## Notes
 
@@ -44,4 +46,4 @@ This is an open access repo holding releases of [Visual2](https://github.com/Imp
 
 Anyone wanting to see the closed code and/or contribute contact me and I can add.
 
-Binaries (currently for linux and windows only) will be posted here under releases. Please give user feedback on binaries as issues on this repository.
+Binaries (currently for linux and windows only) will be posted here. Please give bug reports and user feedback on binaries as issues on this repository.
