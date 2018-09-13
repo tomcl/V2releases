@@ -10,7 +10,8 @@ Visual2 will run on Windows, OS-X and linux and is distributed as binaries. The 
 
 ### Windows
 
-* Unzip the download anywhere on your system
+* Unzip the download anywhere on your system: the extracted files will use approximatly 200MB.
+* You can then delete the downloaded zip file.
 * To run the program double-click the executable `VisUAL2.exe` which can be found in the top-level unzipped directory.
 * No installation is required
 
