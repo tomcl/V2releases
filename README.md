@@ -2,7 +2,7 @@
 
 A friendly ARM assembler and simulator for educational use.
 
-Visual2 will run on Windows, OS-X and linux and is distributed as binaries
+Visual2 will run on Windows, OS-X and linux and is distributed as binaries. The total disk space requried is approximately 200MB.
 
 ## Getting Started
 
