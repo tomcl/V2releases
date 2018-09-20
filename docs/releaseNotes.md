@@ -8,6 +8,11 @@ va.b.c
 * b: minor version. Incremental feature upgrades within major release
 * c: bugfix version. As needed to fix bugs in current minor release
 
+# Release Notes v1.03
+
+* Update build to Fable2.0.0-beta-005 compiler
+* Should make no difference to binaries...
+
 # Release Notes v1.02
 
 Various small polishing feature improvements from 1.01:
