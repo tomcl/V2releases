@@ -17,8 +17,8 @@ Visual2 will run on Windows, OS-X and linux and is distributed as binaries. The 
 
 ### OS-X
 
-* Open the DMG file
-* Drag the Visual2 directory into the app files directory as normal to install
+* Open the downloaded DMG file
+* Drag the Visual2-darwin-x64 directory into the applications directory as normal to install
 
 
 ### Linux
@@ -47,4 +47,4 @@ This is an open access repo holding releases of [Visual2](https://github.com/Imp
 
 Anyone wanting to see the closed code and/or contribute contact me and I can add.
 
-Binaries (currently for linux and windows only) will be posted here. Please give bug reports and user feedback on binaries as issues on this repository.
+Binaries will be posted here. Please give bug reports and user feedback on binaries as issues on this repository.
