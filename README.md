@@ -19,6 +19,12 @@ Visual2 will run on Windows, OS-X and linux and is distributed as binaries. The 
 
 * Open the downloaded DMG file
 * Drag the Visual2-darwin-x64 directory into the applications directory as normal to install
+* The following warning might appear when you first try to launch the application: "Visual2" can't be opened because it is from an unidentified developer. In that case:
+    * Open `System Preferences`
+    * Go to `Security & Privacy`
+    * In the bottom rigth corner, under `General`, click 'Open anyway'
+    * Click 'Open' in the pop up window
+    * If Visual2 does not seem to start, simply quit the application and re-launch
 
 
 ### Linux
