@@ -29,8 +29,9 @@ Visual2 will run on Windows, OS-X and linux and is distributed as binaries. The 
 
 ### Linux
 
-* Untested (using standard electron-packager output)
+* It seems to work easily on most distros
 * Unzip the download
+* Change the binary (Visual2) to give it execute permission `chmod a+x VisUAL2`
 * Run Visual2
 * In case of problems check the documentation on running electron applications on your distro. Contact [me](t.clarke@ic.ac.uk) if you'd like access to the source repo [Visual2](https://github.com/ImperialCollegeLondon/Visual2) and compile Visual2 from source, which may be easier to run under linux.
 
